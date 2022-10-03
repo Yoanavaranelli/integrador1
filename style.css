@@ -1,0 +1,48 @@
+.navbar-brand img {max-width: 100px;}
+
+
+#boton1 {color: #22a342;}
+
+.carousel-item {opacity: 0.8;
+    background-size: cover;
+background-position: center center;}
+
+#body {background-color: grey;
+    justify-content: end;
+    margin-top: auto;
+    padding-left: 10px;
+    padding-top: 15px;
+    height: 100%
+
+ }
+
+
+
+
+
+
+
+ 
+#final
+{
+    
+    background-image: linear-gradient(to right, rgb(27,57,53), rgb(32,87,114) ) ;
+    height: 100px;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 0 !important;
+
+}
+
+
+.footertext
+{
+    color: white;
+    text-decoration: none;
+    text-align: end;
+    margin-right: 0;
+    margin-left: 10%;
+    text-size-adjust: auto;
+}
+
+    
